@@ -4,35 +4,43 @@
 
     <main>
         <section class="row" aria-labelledby="aspnetTitle">
-            <h1 id="aspnetTitle">ASP.NET</h1>
-            <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-            <p><a href="http://www.asp.net" class="btn btn-primary btn-md">Learn more &raquo;</a></p>
+            <h1 id="aspnetTitle">EmployeeRegApp</h1>
+            <p class="lead">A sample application for Employee leave registration.</p>
+            <p>
+                <a href="ApplyLeave.aspx" class="btn btn-success btn-md">Book Leave</a>
+            </p>
         </section>
 
         <div class="row">
             <section class="col-md-4" aria-labelledby="gettingStartedTitle">
-                <h2 id="gettingStartedTitle">Getting started</h2>
+                <h2 id="gettingStartedTitle">Welcome on board</h2>
                 <p>
-                    ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-                A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
+                   We’re excited to have you join the team!  
+                    Explore company resources, meet your colleagues, and 
+                    start your journey with us. Check the Employee Directory 
+                    below to find and connect with other team members.
                 </p>
                 <p>
                     <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
                 </p>
             </section>
             <section class="col-md-4" aria-labelledby="librariesTitle">
-                <h2 id="librariesTitle">Get more libraries</h2>
+                <h2 id="librariesTitle">IT Support</h2>
                 <p>
-                    NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
+                    Having technical issues? The IT team is here to help.  
+                    Submit a support request, reset your password, or get assistance 
+                    with software and hardware setup.
                 </p>
                 <p>
                     <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
                 </p>
             </section>
             <section class="col-md-4" aria-labelledby="hostingTitle">
-                <h2 id="hostingTitle">Web Hosting</h2>
+                <h2 id="hostingTitle">HR Support</h2>
                 <p>
-                    You can easily find a web hosting company that offers the right mix of features and price for your applications.
+                    Questions about payroll, benefits, or company policies?  
+                    The HR team is available to assist you.  
+                    Reach out for onboarding guidance or employee services. 
                 </p>
                 <p>
                     <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>

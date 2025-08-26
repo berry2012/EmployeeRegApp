@@ -1,0 +1,14 @@
+CREATE DATABASE EmployeeDb;
+
+USE EmployeeDb;
+
+CREATE TABLE LeaveApplications (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    EmployeeName NVARCHAR(100),
+    LeaveType NVARCHAR(50),
+    StartDate DATE,
+    EndDate DATE,
+    Reason NVARCHAR(500)
+);
+
+SELECT * FROM LeaveApplications;
